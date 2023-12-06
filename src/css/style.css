@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body.back_black {
+  background: #000000;
+  color: #fff;
+}
+
+.black-nav {
+  background: #4d4d4d;
+  padding: 10px;
+}
+
+.list {
+  padding: 10px 20px;
+  border-bottom: 1px dotted #616161;
+}
+
+.list > p {
+  color: #7a7a7a;
+  padding-top: 10px;
+  font-size: 12px;
+  text-align: right;
+}
+
+.dis_none {
+  display: none;
+}
+
+.popup {
+  position: absolute;
+  display: inline-block !important;
+  top: 10px;
+  right: 10px;
+  width: 200px;
+  height: 200px;
+  background: coral;
+}
+
+.popup.show {
+  display: inline-block;
+}
+
+.title_h3 {
+  color: #ff00ff;
+}
+
+.fs12 {
+  font-size: 12px;
+}
+
+.back_bg01 {
+  height: 500px;
+  background-image: url(../images/sam04.jpg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "title": "vue",
+      "body": "vuejs",
+      "createAt": 1701823226356,
+      "id": 1
+    },
+    {
+      "title": "기억나니",
+      "body": "기억안나",
+      "createAt": 1701825159293,
+      "id": 2
+    },
+    {
+      "title": "45345345",
+      "body": "vuejs",
+      "createAt": 1701834297161,
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
